@@ -93,7 +93,7 @@ Operations Research.
 
 - [Read the Research Summary (PDF)](Economic_Development_Research_Summary.pdf)
 - [View the Original LinkedIn Project Post](https://lnkd.in/p/e935cS67)
-- - **[Visual Analysis Report (PDF)](Visual_Analysis.pdf)** — A visual analysis of the Power BI dashboards, covering country comparisons, economic and human development indicators, infrastructure access, and natural-resource wealth.
+- [Visual Analysis Report (PDF)](Visual_Analysis.pdf) — A visual analysis of the Power BI dashboards, covering country comparisons, economic and human development indicators, infrastructure access, and natural-resource wealth.
 
 ## Conclusion
 
