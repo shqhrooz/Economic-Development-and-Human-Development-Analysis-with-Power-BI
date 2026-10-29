@@ -92,7 +92,6 @@ multidimensional development analysis with decision support and
 Operations Research.
 
 - [Read the Research Summary (PDF)](Economic_Development_Research_Summary.pdf)
-- [View the LaTeX Source](Economic_Development_Research_Summary.tex)
 - [View the Original LinkedIn Project Post](https://lnkd.in/p/e935cS67)
 
 ## Conclusion
