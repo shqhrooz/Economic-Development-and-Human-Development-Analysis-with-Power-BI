@@ -84,10 +84,16 @@ These insights reflect the comparisons explored in this project and should be in
 - Business Intelligence and Data Storytelling
 
 ## Project Presentation
+## Research Summary
 
-Read the original project presentation on LinkedIn:
+An English-language research summary of the project, including the
+comparative findings and a proposed modeling framework connecting
+multidimensional development analysis with decision support and
+Operations Research.
 
-[View the Project on LinkedIn](https://lnkd.in/p/e935cS67)
+- [Read the Research Summary (PDF)](Economic_Development_Research_Summary.pdf)
+- [View the LaTeX Source](Economic_Development_Research_Summary.tex)
+- [View the Original LinkedIn Project Post](https://lnkd.in/p/e935cS67)
 
 ## Conclusion
 
